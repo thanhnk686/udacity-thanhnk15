@@ -1,0 +1,2 @@
+URL-200: http://uda2-thanhnk15-env-1.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://m.yodycdn.com/blog/hinh-nen-thien-nhien-4k-yody-vn-1-jpeg.jpg
+URL-400: http://uda2-thanhnk15-env-1.us-east-1.elasticbeanstalk.com/filteredimage?image_url
